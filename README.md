@@ -26,4 +26,4 @@
 ---
 
 
-![EMOJI LOTTO](lotto_00.jpg "Игра лото")
+![EMOJI LOTTO](https://raw.githubusercontent.com/dnp34/Python_P.L09/main/lotto_00.jpg "Игра лото")
